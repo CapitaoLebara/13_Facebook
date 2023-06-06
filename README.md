@@ -8,7 +8,8 @@
 [![NPM](https://img.shields.io/npm/l/react)](https://github.com/devsuperior/sds1-wmazoni/blob/master/LICENSE) 
 
 ## Layout 
-<img src="./readme/img1.png" alt="@Hawk_web" height="200"><img src="./readme/img2.png" alt="@Hawk_web" height="200"><img src="./readme/img3.png" alt="@Hawk_web" height="200"><img src="./readme/img4.png" alt="@Hawk_web" height="200"><img src="./readme/img5.png" alt="@Hawk_web" height="200"><img src="./readme/img6.png" alt="@Hawk_web" height="200">
+<img src="./readme/img1.PNG" alt="@Hawk_web" height="200">
+
 # Tecnologias utilizadas
 - React.js
 - TailwindCss
